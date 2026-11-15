@@ -2,19 +2,16 @@
 <h3 align="center">Software Engineering Student & Full Stack Developer</h3>
 
 <p align="center">
-  <!-- Yahan jab aap LinkedIn account bana lein, toh apni profile ka link daal dijiyega -->
+  <!-- Jab aap LinkedIn profile bana lein, toh yahan apna link daal dijiyega -->
   <a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Manahil-Naeem" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 ### 📖 About Me
-* 🌱 Currently pursuing my degree in **Software Engineering**, focusing on core concepts like object-oriented programming, software construction, and web engineering.
+* 🌱 Currently pursuing my degree in **Software Engineering** at SZABIST , focusing on core concepts like object-oriented programming, software construction, and web engineering.
 * 💡 Deeply passionate about transforming creative ideas and real-world problems into fully functional, production-ready web applications from scratch.
 * 🚀 Experienced in developing full-stack projects, connecting responsive frontend interfaces with cloud-based databases, and deploying live applications seamlessly.
 * 🎯 Dedicated to continuous learning, writing clean code, and growing as a versatile software developer.
@@ -22,7 +19,7 @@
 ---
 
 ### 💼 Experience & Internship
-* **Software Development Intern** | **CARBON8**
+* **Software Development Intern** | **CARBON8** *(Summer 2026)*
   * Contributed to building and maintaining web applications using modern development tools and best practices.
   * Collaborated on writing clean code, fixing bugs, and integrating responsive frontend interfaces with backend database solutions.
 
