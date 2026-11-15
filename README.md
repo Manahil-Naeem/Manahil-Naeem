@@ -3,7 +3,7 @@
 
 <p align="center">
   <!-- Jab aap LinkedIn profile bana lein, toh yahan apna link daal dijiyega -->
-  <a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/manahil-naeeem/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
